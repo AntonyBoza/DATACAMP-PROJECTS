@@ -1,2 +1,2 @@
 # DATACAMPPROJECTS
-Projects developed at DataCamp
+Projects developed at DataCamp.com
